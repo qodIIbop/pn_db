@@ -1,0 +1,11 @@
+- create a dev and released version of the database and the php code
+
+- make main switch "universal" so it can handle all tables
+
+- add fixed table header for id_ecad
+- make "Reset" to clear values in input fields
+- make "Clear" to clear filter fields
+
+Bugs:
+- mod does not handle rev correctly/ does not allow to change it
+
